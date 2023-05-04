@@ -43,7 +43,7 @@ Nesta segunda versão, trabalhamos com o frontend. Posteriormente, serão adicio
 ### Order
 
 - Order é a aplicação responsável pelo agendamento de pedidos de entrega. É onde todo o processo de entrega começa; a partir da criação de um novo pedido, as demais aplicações são ativadas.
-- Interessante notar que trata-se de uma aplicação CRUD, utilizando backend (Nest.js) e frontend (React) ao mesmo tempo.
+- Interessante notar que trata-se de uma aplicação ou microsserviço CRUD, utilizando backend (Nest.js) e frontend (React) ao mesmo tempo.
 - Vejamos 3 possíveis cenários de comunicação entre a aplicação Order com as demais:
 
 #### Buscar Motoristas
