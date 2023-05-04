@@ -24,16 +24,19 @@ Dinâmica do sistema:
 
 ## Tecnologias
 
-Nesta segunda versão, trabalhamos com o frontend. Posteriormente, serão adicionadas as tecnologias de integração contínua, deploy e observabilidade.
+#### Operate What You Build
 
-- Backend
-  - Golang
-  - TypeScript
-  - Nest.js
-  - RabbitMQ
-  - MySQL
-- Frontend (sem SPA)
-  - React
+- Nesta segunda versão, trabalhamos com o frontend. Posteriormente, serão adicionadas as tecnologias de integração contínua, deploy e observabilidade.
+
+  - Backend
+    - Golang
+    - TypeScript
+    - Nest.js
+    - RabbitMQ
+    - MySQL
+
+  - Frontend (sem SPA)
+    - React
 
 ## Formatos de Comunicação
 
