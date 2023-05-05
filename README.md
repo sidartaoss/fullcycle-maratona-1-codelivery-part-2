@@ -70,7 +70,7 @@ Dinâmica do sistema:
 
 ### Frontend
 
-- Trabalha-se com o React de forma direta, importando de um CDN, sem preocupar-se com os conceitos de uma Single Page Application (SPA).
+- Trabalha-se com o React de forma direta (standalone, sem o uso de módulos), importando de um CDN, sem preocupar-se com os conceitos de uma Single Page Application (SPA).
 - Além do React, o ReactDOM, o Material UI (biblioteca React baseada nos conceitos do Material Design) e o Babel (compilador JavaScript que permite trabalhar com JSX (para inserir HTML no meio do JavaScript)) são carregados a partir de um CDN.
 - Então, o React é incorporado dentro de um sistema de views, utilizando-se a biblioteca de templates Handlebars (https://handlebarsjs.com).
 
